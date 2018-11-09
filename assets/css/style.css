@@ -1,0 +1,24 @@
+body {
+    background-image: url(http://www.clydefitchreport.com/wp-content/uploads/2018/01/Crystal-ball.jpg);
+    background-size: cover;
+    
+}
+
+p {
+    color: darkorange;
+    text-align: center;
+    font-size: 50px;
+    padding: 30px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: pink;
+    text-align: center;
+    font-size: 30px;
+}
